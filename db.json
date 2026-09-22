@@ -1,0 +1,35 @@
+{
+    "livros": [
+        {
+            "id": "1",
+            "nome": "harry potter"
+        }
+    ],
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Literatura Brasileira",
+            "descricao": "Obras de autores brasileiros e clássicos da literatura nacional."
+        },
+        {
+            "id": 2,
+            "nome": "Ficção",
+            "descricao": "Livros de histórias fictícias, incluindo obras de diferentes estilos."
+        },
+        {
+            "id": 3,
+            "nome": "Fantasia",
+            "descricao": "Obras que apresentam mundos fantásticos, magia e criaturas imaginárias."
+        },
+        {
+            "id": 4,
+            "nome": "Infantil",
+            "descricao": "Livros destinados ao público infantil, com histórias educativas e recreativas."
+        },
+        {
+            "id": 5,
+            "nome": "Romance",
+            "descricao": "Obras centradas em relacionamentos, sentimentos e histórias de amor."
+        }
+    ]
+}
